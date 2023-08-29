@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Timers;
 using Timer = System.Timers.Timer;
 
-namespace WindowService_Amori_Martin
+namespace IncrementService
 {
     internal class IncrementService : ServiceBase
     {
