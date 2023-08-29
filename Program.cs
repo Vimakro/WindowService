@@ -5,7 +5,7 @@ using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WindowService_Amori_Martin
+namespace IncrementService
 {
     class Program
     {
