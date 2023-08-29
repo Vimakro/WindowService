@@ -11,7 +11,7 @@ using Timer = System.Timers.Timer;
 
 namespace IncrementService
 {
-    internal class IncrementService : ServiceBase
+    Public class IncrementService : ServiceBase
     {
         private Timer timer;
         private int counter;
